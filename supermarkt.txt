@@ -1,2 +1,4 @@
 - Milch
 - Banane
+- Schokolade
+- Wassser
